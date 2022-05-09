@@ -1,0 +1,4 @@
+There are three solutions of this problem.
+1 Call Back 
+2 Promise
+3 async wait
